@@ -30,32 +30,4 @@ Starting audit...
 Audit done.
 Checkstyle ends with 28 errors.
 Starting audit...
-[ERROR] D:\ADS-2\6006_ADS-2\ADS-2-Assignments\m1\1.1 Graph\Solution.java:0: File does not end with a newline. [NewlineAtEndOfFile]
-[ERROR] D:\ADS-2\6006_ADS-2\ADS-2-Assignments\m1\1.1 Graph\Solution.java:2: Missing a Javadoc comment. [JavadocType]
-[ERROR] D:\ADS-2\6006_ADS-2\ADS-2-Assignments\m1\1.1 Graph\Solution.java:3:5: Missing a Javadoc comment. [JavadocVariable]
-[ERROR] D:\ADS-2\6006_ADS-2\ADS-2-Assignments\m1\1.1 Graph\Solution.java:4:5: Missing a Javadoc comment. [JavadocVariable]
-[ERROR] D:\ADS-2\6006_ADS-2\ADS-2-Assignments\m1\1.1 Graph\Solution.java:5:5: Missing a Javadoc comment. [JavadocVariable]
-[ERROR] D:\ADS-2\6006_ADS-2\ADS-2-Assignments\m1\1.1 Graph\Solution.java:6:5: Missing a Javadoc comment. [JavadocVariable]
-[ERROR] D:\ADS-2\6006_ADS-2\ADS-2-Assignments\m1\1.1 Graph\Solution.java:7:5: Missing a Javadoc comment. [JavadocMethod]
-[ERROR] D:\ADS-2\6006_ADS-2\ADS-2-Assignments\m1\1.1 Graph\Solution.java:10:5: Missing a Javadoc comment. [JavadocMethod]
-[ERROR] D:\ADS-2\6006_ADS-2\ADS-2-Assignments\m1\1.1 Graph\Solution.java:20:5: Missing a Javadoc comment. [JavadocMethod]
-[ERROR] D:\ADS-2\6006_ADS-2\ADS-2-Assignments\m1\1.1 Graph\Solution.java:29:5: Missing a Javadoc comment. [JavadocMethod]
-[ERROR] D:\ADS-2\6006_ADS-2\ADS-2-Assignments\m1\1.1 Graph\Solution.java:35:5: Missing a Javadoc comment. [JavadocMethod]
-[ERROR] D:\ADS-2\6006_ADS-2\ADS-2-Assignments\m1\1.1 Graph\Solution.java:52: Missing a Javadoc comment. [JavadocType]
-[ERROR] D:\ADS-2\6006_ADS-2\ADS-2-Assignments\m1\1.1 Graph\Solution.java:53:5: Missing a Javadoc comment. [JavadocVariable]
-[ERROR] D:\ADS-2\6006_ADS-2\ADS-2-Assignments\m1\1.1 Graph\Solution.java:54:5: Missing a Javadoc comment. [JavadocVariable]
-[ERROR] D:\ADS-2\6006_ADS-2\ADS-2-Assignments\m1\1.1 Graph\Solution.java:55:5: Missing a Javadoc comment. [JavadocVariable]
-[ERROR] D:\ADS-2\6006_ADS-2\ADS-2-Assignments\m1\1.1 Graph\Solution.java:56:5: Missing a Javadoc comment. [JavadocVariable]
-[ERROR] D:\ADS-2\6006_ADS-2\ADS-2-Assignments\m1\1.1 Graph\Solution.java:57:5: Missing a Javadoc comment. [JavadocMethod]
-[ERROR] D:\ADS-2\6006_ADS-2\ADS-2-Assignments\m1\1.1 Graph\Solution.java:59:5: Missing a Javadoc comment. [JavadocMethod]
-[ERROR] D:\ADS-2\6006_ADS-2\ADS-2-Assignments\m1\1.1 Graph\Solution.java:72:5: Missing a Javadoc comment. [JavadocMethod]
-[ERROR] D:\ADS-2\6006_ADS-2\ADS-2-Assignments\m1\1.1 Graph\Solution.java:75:5: Missing a Javadoc comment. [JavadocMethod]
-[ERROR] D:\ADS-2\6006_ADS-2\ADS-2-Assignments\m1\1.1 Graph\Solution.java:78:5: Missing a Javadoc comment. [JavadocMethod]
-[ERROR] D:\ADS-2\6006_ADS-2\ADS-2-Assignments\m1\1.1 Graph\Solution.java:89:5: Missing a Javadoc comment. [JavadocMethod]
-[ERROR] D:\ADS-2\6006_ADS-2\ADS-2-Assignments\m1\1.1 Graph\Solution.java:92:5: Missing a Javadoc comment. [JavadocMethod]
-[ERROR] D:\ADS-2\6006_ADS-2\ADS-2-Assignments\m1\1.1 Graph\Solution.java:101:5: Missing a Javadoc comment. [JavadocMethod]
-[ERROR] D:\ADS-2\6006_ADS-2\ADS-2-Assignments\m1\1.1 Graph\Solution.java:119: Missing a Javadoc comment. [JavadocType]
-[ERROR] D:\ADS-2\6006_ADS-2\ADS-2-Assignments\m1\1.1 Graph\Solution.java:120:5: Missing a Javadoc comment. [JavadocMethod]
-[ERROR] D:\ADS-2\6006_ADS-2\ADS-2-Assignments\m1\1.1 Graph\Solution.java:122:5: Missing a Javadoc comment. [JavadocMethod]
 Audit done.
-Checkstyle ends with 27 errors.
