@@ -89,7 +89,7 @@ final class Solution {
 
     }
     /**
-     * this main method performs operations
+     * this main method performs operations.
      *
      * @param      args  The arguments
      */

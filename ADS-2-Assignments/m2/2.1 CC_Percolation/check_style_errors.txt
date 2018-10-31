@@ -92,7 +92,4 @@ Starting audit...
 Audit done.
 Checkstyle ends with 24 errors.
 Starting audit...
-[ERROR] D:\ADS-2\6006_ADS-2\ADS-2-Assignments\m2\2.1 CC_Percolation\Solution.java:0: File does not end with a newline. [NewlineAtEndOfFile]
-[ERROR] D:\ADS-2\6006_ADS-2\ADS-2-Assignments\m2\2.1 CC_Percolation\Solution.java:91: First sentence should end with a period. [JavadocStyle]
 Audit done.
-Checkstyle ends with 2 errors.
