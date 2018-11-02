@@ -1,40 +1,75 @@
-########## Testcase 0: Passed ##########
+########## Testcase 0: Failed ##########
 Expected Output: 
 Graph is bipartite
 
 Your Output: 
-Graph is bipartite
+Exception in thread "main" java.lang.NoClassDefFoundError: Bag
+	at Graph.<init>(Graph.java:31)
+	at Solution.main(Solution.java:45)
+Caused by: java.lang.ClassNotFoundException: Bag
+	at java.base/jdk.internal.loader.BuiltinClassLoader.loadClass(Unknown Source)
+	at java.base/jdk.internal.loader.ClassLoaders$AppClassLoader.loadClass(Unknown Source)
+	at java.base/java.lang.ClassLoader.loadClass(Unknown Source)
+	... 2 more
 ----------------------------------------
 
-########## Testcase 1: Passed ##########
+########## Testcase 1: Failed ##########
 Expected Output: 
 Graph is bipartite
 
 Your Output: 
-Graph is bipartite
+Exception in thread "main" java.lang.NoClassDefFoundError: Bag
+	at Graph.<init>(Graph.java:31)
+	at Solution.main(Solution.java:45)
+Caused by: java.lang.ClassNotFoundException: Bag
+	at java.base/jdk.internal.loader.BuiltinClassLoader.loadClass(Unknown Source)
+	at java.base/jdk.internal.loader.ClassLoaders$AppClassLoader.loadClass(Unknown Source)
+	at java.base/java.lang.ClassLoader.loadClass(Unknown Source)
+	... 2 more
 ----------------------------------------
 
-########## Testcase 2: Passed ##########
+########## Testcase 2: Failed ##########
 Expected Output: 
 Graph is bipartite
 
 Your Output: 
-Graph is bipartite
+Exception in thread "main" java.lang.NoClassDefFoundError: Bag
+	at Graph.<init>(Graph.java:31)
+	at Solution.main(Solution.java:45)
+Caused by: java.lang.ClassNotFoundException: Bag
+	at java.base/jdk.internal.loader.BuiltinClassLoader.loadClass(Unknown Source)
+	at java.base/jdk.internal.loader.ClassLoaders$AppClassLoader.loadClass(Unknown Source)
+	at java.base/java.lang.ClassLoader.loadClass(Unknown Source)
+	... 2 more
 ----------------------------------------
 
-########## Testcase 3: Passed ##########
+########## Testcase 3: Failed ##########
 Expected Output: 
 Graph is not a bipartite
 
 Your Output: 
-Graph is not a bipartite
+Exception in thread "main" java.lang.NoClassDefFoundError: Bag
+	at Graph.<init>(Graph.java:31)
+	at Solution.main(Solution.java:45)
+Caused by: java.lang.ClassNotFoundException: Bag
+	at java.base/jdk.internal.loader.BuiltinClassLoader.loadClass(Unknown Source)
+	at java.base/jdk.internal.loader.ClassLoaders$AppClassLoader.loadClass(Unknown Source)
+	at java.base/java.lang.ClassLoader.loadClass(Unknown Source)
+	... 2 more
 ----------------------------------------
 
-########## Testcase 4: Passed ##########
+########## Testcase 4: Failed ##########
 Expected Output: 
 Graph is not a bipartite
 
 Your Output: 
-Graph is not a bipartite
+Exception in thread "main" java.lang.NoClassDefFoundError: Bag
+	at Graph.<init>(Graph.java:31)
+	at Solution.main(Solution.java:45)
+Caused by: java.lang.ClassNotFoundException: Bag
+	at java.base/jdk.internal.loader.BuiltinClassLoader.loadClass(Unknown Source)
+	at java.base/jdk.internal.loader.ClassLoaders$AppClassLoader.loadClass(Unknown Source)
+	at java.base/java.lang.ClassLoader.loadClass(Unknown Source)
+	... 2 more
 ----------------------------------------
 
