@@ -69,31 +69,8 @@ Audit done.
 Checkstyle ends with 35 errors.
 Starting audit...
 [ERROR] D:\ADS-2\6006_ADS-2\ADS-2-Assignments\m3\3.1 Directed Cycle\Solution.java:0: File does not end with a newline. [NewlineAtEndOfFile]
-[ERROR] D:\ADS-2\6006_ADS-2\ADS-2-Assignments\m3\3.1 Directed Cycle\Solution.java:2: Missing a Javadoc comment. [JavadocType]
-[ERROR] D:\ADS-2\6006_ADS-2\ADS-2-Assignments\m3\3.1 Directed Cycle\Solution.java:3:5: Missing a Javadoc comment. [JavadocVariable]
-[ERROR] D:\ADS-2\6006_ADS-2\ADS-2-Assignments\m3\3.1 Directed Cycle\Solution.java:4:5: Missing a Javadoc comment. [JavadocVariable]
-[ERROR] D:\ADS-2\6006_ADS-2\ADS-2-Assignments\m3\3.1 Directed Cycle\Solution.java:5:5: Missing a Javadoc comment. [JavadocVariable]
-[ERROR] D:\ADS-2\6006_ADS-2\ADS-2-Assignments\m3\3.1 Directed Cycle\Solution.java:6:5: Missing a Javadoc comment. [JavadocVariable]
-[ERROR] D:\ADS-2\6006_ADS-2\ADS-2-Assignments\m3\3.1 Directed Cycle\Solution.java:7:5: Missing a Javadoc comment. [JavadocMethod]
-[ERROR] D:\ADS-2\6006_ADS-2\ADS-2-Assignments\m3\3.1 Directed Cycle\Solution.java:17:5: Missing a Javadoc comment. [JavadocMethod]
-[ERROR] D:\ADS-2\6006_ADS-2\ADS-2-Assignments\m3\3.1 Directed Cycle\Solution.java:38:5: Missing a Javadoc comment. [JavadocMethod]
-[ERROR] D:\ADS-2\6006_ADS-2\ADS-2-Assignments\m3\3.1 Directed Cycle\Solution.java:42: Missing a Javadoc comment. [JavadocType]
-[ERROR] D:\ADS-2\6006_ADS-2\ADS-2-Assignments\m3\3.1 Directed Cycle\Solution.java:43:5: Missing a Javadoc comment. [JavadocVariable]
-[ERROR] D:\ADS-2\6006_ADS-2\ADS-2-Assignments\m3\3.1 Directed Cycle\Solution.java:44:5: Missing a Javadoc comment. [JavadocVariable]
-[ERROR] D:\ADS-2\6006_ADS-2\ADS-2-Assignments\m3\3.1 Directed Cycle\Solution.java:45:5: Missing a Javadoc comment. [JavadocVariable]
-[ERROR] D:\ADS-2\6006_ADS-2\ADS-2-Assignments\m3\3.1 Directed Cycle\Solution.java:46:5: Missing a Javadoc comment. [JavadocVariable]
-[ERROR] D:\ADS-2\6006_ADS-2\ADS-2-Assignments\m3\3.1 Directed Cycle\Solution.java:47:5: Missing a Javadoc comment. [JavadocVariable]
-[ERROR] D:\ADS-2\6006_ADS-2\ADS-2-Assignments\m3\3.1 Directed Cycle\Solution.java:48:5: Missing a Javadoc comment. [JavadocMethod]
-[ERROR] D:\ADS-2\6006_ADS-2\ADS-2-Assignments\m3\3.1 Directed Cycle\Solution.java:59:5: Missing a Javadoc comment. [JavadocMethod]
-[ERROR] D:\ADS-2\6006_ADS-2\ADS-2-Assignments\m3\3.1 Directed Cycle\Solution.java:66:5: Missing a Javadoc comment. [JavadocMethod]
-[ERROR] D:\ADS-2\6006_ADS-2\ADS-2-Assignments\m3\3.1 Directed Cycle\Solution.java:75:5: Missing a Javadoc comment. [JavadocMethod]
-[ERROR] D:\ADS-2\6006_ADS-2\ADS-2-Assignments\m3\3.1 Directed Cycle\Solution.java:78:5: Missing a Javadoc comment. [JavadocMethod]
-[ERROR] D:\ADS-2\6006_ADS-2\ADS-2-Assignments\m3\3.1 Directed Cycle\Solution.java:81:5: Missing a Javadoc comment. [JavadocMethod]
-[ERROR] D:\ADS-2\6006_ADS-2\ADS-2-Assignments\m3\3.1 Directed Cycle\Solution.java:85: Missing a Javadoc comment. [JavadocType]
-[ERROR] D:\ADS-2\6006_ADS-2\ADS-2-Assignments\m3\3.1 Directed Cycle\Solution.java:86:5: Missing a Javadoc comment. [JavadocMethod]
-[ERROR] D:\ADS-2\6006_ADS-2\ADS-2-Assignments\m3\3.1 Directed Cycle\Solution.java:89:5: Missing a Javadoc comment. [JavadocMethod]
 Audit done.
-Checkstyle ends with 24 errors.
+Checkstyle ends with 1 errors.
 Starting audit...
 [ERROR] D:\ADS-2\6006_ADS-2\ADS-2-Assignments\m3\3.1 Directed Cycle\Stack.java:0: File does not end with a newline. [NewlineAtEndOfFile]
 [ERROR] D:\ADS-2\6006_ADS-2\ADS-2-Assignments\m3\3.1 Directed Cycle\Stack.java:7: Line has trailing spaces. [RegexpSingleline]
