@@ -1,9 +1,32 @@
 import java.util.Scanner;
+/**
+ * Class for bipartite.
+ */
 class Bipartite {
+    /**
+     * boolean array for marking the visit of node.
+     */
     private boolean[] marked;
+    /**
+     * boolean array for color representation.
+     * of each node.
+     */
     private boolean[] color;
+    /**
+     * flag to check graph is bipartite or not.
+     */
     private boolean flag;
+    /**
+     * array for the edge of that node.
+     */
     private int[] edgeTo;
+    /**
+     * Constructs the object.
+     * Time complexity is O(V)
+     * V is number of vertices.
+     *
+     * @param      g     graph object
+     */
     Bipartite(final Graph g) {
         int vertices = g.vertices();
         marked = new boolean[vertices];
@@ -16,6 +39,14 @@ class Bipartite {
             }
         }
     }
+    /**
+     * this method performs dfs for the given graph.
+     * Time complexity is O(E)
+     * E is the number of edges.
+     *
+     * @param      g         graph object
+     * @param      vertices  The vertices
+     */
     public void dfs(final Graph g, final int vertices) {
         marked[vertices] = true;
         for (int w : g.adj(vertices)) {
@@ -30,14 +61,30 @@ class Bipartite {
             }
         }
     }
+    /**
+     * Determines if bipartite.
+     *
+     * @return     True if bipartite, False otherwise.
+     */
     public boolean isBipartite() {
         return flag;
     }
 }
+/**
+ * Class for solution.
+ */
 final class Solution {
+    /**
+     * Constructs the object.
+     */
     private Solution() {
 
     }
+    /**
+     * the main method performs operations.
+     *
+     * @param      args  The arguments
+     */
     public static void main(final String[] args) {
         Scanner scan = new Scanner(System.in);
         int vertices = Integer.parseInt(scan.nextLine());
