@@ -1,11 +1,28 @@
 import java.util.Scanner;
+/**
+ * Class for page rank.
+ */
 class PageRank {
+	/**
+	 * { var_description }.
+	 */
 	Digraph dg;
+	/**
+	 * { var_description }.
+	 */
 	private BinarySearchST<Integer, Double> bst;
+	/**
+	 * Constructs the object.
+	 *
+	 * @param      dgh   The dgh
+	 */
     PageRank(final Digraph dgh) {
         this.dg = dgh;
         bst = new BinarySearchST<Integer, Double>();
     }
+    /**
+     * { function_description }.
+     */
     public void display() {
         System.out.println(dg.toString());
         for (int i : bst.keys()) {
@@ -14,12 +31,11 @@ class PageRank {
             System.out.println(str);
         }
     }
+    /**
+     * { function_description }.
+     */
     public void pgValue() {
         final double outdegree = 0;
-        final double value = 0.125;
-        for (int m = 0; m < dg.V(); m++) {
-            bst.put(m, value);
-        }
         for (int k = 0; k < 1000; k++) {
             for (int i = 0; i < dg.V(); i++) {
             double temp = 0.0;
@@ -33,12 +49,16 @@ class PageRank {
         }
     }
 }
-
+/**
+ * Class for web search.
+ */
 class WebSearch {
 
 }
 
-
+/**
+ * { item_description }.
+ */
 final class Solution {
     /**
      * Constructs the object.

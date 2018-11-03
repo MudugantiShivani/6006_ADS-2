@@ -21,8 +21,8 @@ Your Output:
 Exception in thread "main" java.util.NoSuchElementException: called min() with empty symbol table
 	at BinarySearchST.min(BinarySearchST.java:275)
 	at BinarySearchST.keys(BinarySearchST.java:363)
-	at PageRank.display(Solution.java:11)
-	at Solution.main(Solution.java:65)
+	at PageRank.display(Solution.java:28)
+	at Solution.main(Solution.java:85)
 ----------------------------------------
 
 ########## Testcase 1: Failed ##########
@@ -48,8 +48,8 @@ Your Output:
 Exception in thread "main" java.util.NoSuchElementException: called min() with empty symbol table
 	at BinarySearchST.min(BinarySearchST.java:275)
 	at BinarySearchST.keys(BinarySearchST.java:363)
-	at PageRank.display(Solution.java:11)
-	at Solution.main(Solution.java:65)
+	at PageRank.display(Solution.java:28)
+	at Solution.main(Solution.java:85)
 ----------------------------------------
 
 ########## Testcase 2: Failed ##########
@@ -75,8 +75,8 @@ Your Output:
 Exception in thread "main" java.util.NoSuchElementException: called min() with empty symbol table
 	at BinarySearchST.min(BinarySearchST.java:275)
 	at BinarySearchST.keys(BinarySearchST.java:363)
-	at PageRank.display(Solution.java:11)
-	at Solution.main(Solution.java:65)
+	at PageRank.display(Solution.java:28)
+	at Solution.main(Solution.java:85)
 ----------------------------------------
 
 ########## Testcase 3: Failed ##########
@@ -114,8 +114,8 @@ Your Output:
 Exception in thread "main" java.util.NoSuchElementException: called min() with empty symbol table
 	at BinarySearchST.min(BinarySearchST.java:275)
 	at BinarySearchST.keys(BinarySearchST.java:363)
-	at PageRank.display(Solution.java:11)
-	at Solution.main(Solution.java:65)
+	at PageRank.display(Solution.java:28)
+	at Solution.main(Solution.java:85)
 ----------------------------------------
 
 ########## Testcase 4: Failed ##########
@@ -147,8 +147,8 @@ Your Output:
 Exception in thread "main" java.util.NoSuchElementException: called min() with empty symbol table
 	at BinarySearchST.min(BinarySearchST.java:275)
 	at BinarySearchST.keys(BinarySearchST.java:363)
-	at PageRank.display(Solution.java:11)
-	at Solution.main(Solution.java:65)
+	at PageRank.display(Solution.java:28)
+	at Solution.main(Solution.java:85)
 ----------------------------------------
 
 ########## Testcase 5: Failed ##########
@@ -186,8 +186,8 @@ Your Output:
 Exception in thread "main" java.util.NoSuchElementException: called min() with empty symbol table
 	at BinarySearchST.min(BinarySearchST.java:275)
 	at BinarySearchST.keys(BinarySearchST.java:363)
-	at PageRank.display(Solution.java:11)
-	at Solution.main(Solution.java:65)
+	at PageRank.display(Solution.java:28)
+	at Solution.main(Solution.java:85)
 ----------------------------------------
 
 ########## Testcase 6: Failed ##########
@@ -213,8 +213,8 @@ Your Output:
 Exception in thread "main" java.util.NoSuchElementException: called min() with empty symbol table
 	at BinarySearchST.min(BinarySearchST.java:275)
 	at BinarySearchST.keys(BinarySearchST.java:363)
-	at PageRank.display(Solution.java:11)
-	at Solution.main(Solution.java:65)
+	at PageRank.display(Solution.java:28)
+	at Solution.main(Solution.java:85)
 ----------------------------------------
 
 ########## Testcase 7: Failed ##########
@@ -246,8 +246,8 @@ Your Output:
 Exception in thread "main" java.util.NoSuchElementException: called min() with empty symbol table
 	at BinarySearchST.min(BinarySearchST.java:275)
 	at BinarySearchST.keys(BinarySearchST.java:363)
-	at PageRank.display(Solution.java:11)
-	at Solution.main(Solution.java:65)
+	at PageRank.display(Solution.java:28)
+	at Solution.main(Solution.java:85)
 ----------------------------------------
 
 ########## Testcase 8: Failed ##########
@@ -273,8 +273,8 @@ Your Output:
 Exception in thread "main" java.util.NoSuchElementException: called min() with empty symbol table
 	at BinarySearchST.min(BinarySearchST.java:275)
 	at BinarySearchST.keys(BinarySearchST.java:363)
-	at PageRank.display(Solution.java:11)
-	at Solution.main(Solution.java:65)
+	at PageRank.display(Solution.java:28)
+	at Solution.main(Solution.java:85)
 ----------------------------------------
 
 ########## Testcase 9: Failed ##########
@@ -306,8 +306,8 @@ Your Output:
 Exception in thread "main" java.util.NoSuchElementException: called min() with empty symbol table
 	at BinarySearchST.min(BinarySearchST.java:275)
 	at BinarySearchST.keys(BinarySearchST.java:363)
-	at PageRank.display(Solution.java:11)
-	at Solution.main(Solution.java:65)
+	at PageRank.display(Solution.java:28)
+	at Solution.main(Solution.java:85)
 ----------------------------------------
 
 ########## Testcase 10: Failed ##########
@@ -327,8 +327,8 @@ Your Output:
 Exception in thread "main" java.util.NoSuchElementException: called min() with empty symbol table
 	at BinarySearchST.min(BinarySearchST.java:275)
 	at BinarySearchST.keys(BinarySearchST.java:363)
-	at PageRank.display(Solution.java:11)
-	at Solution.main(Solution.java:65)
+	at PageRank.display(Solution.java:28)
+	at Solution.main(Solution.java:85)
 ----------------------------------------
 
 ########## Testcase 11: Failed ##########
@@ -383,7 +383,7 @@ Your Output:
 Exception in thread "main" java.util.NoSuchElementException: called min() with empty symbol table
 	at BinarySearchST.min(BinarySearchST.java:275)
 	at BinarySearchST.keys(BinarySearchST.java:363)
-	at PageRank.display(Solution.java:11)
-	at Solution.main(Solution.java:65)
+	at PageRank.display(Solution.java:28)
+	at Solution.main(Solution.java:85)
 ----------------------------------------
 
