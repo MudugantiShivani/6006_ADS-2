@@ -14,6 +14,7 @@ class PageRank {
             System.out.println(str);
         }
     }
+    
 }
 
 class WebSearch {
@@ -44,6 +45,7 @@ final class Solution {
         }
         // Create page rank object and pass the graph object to the constructor
         PageRank pr = new PageRank(dg);
+        pr.display();
         // print the page rank object
         
         // This part is only for the final test case
