@@ -14,7 +14,20 @@ class PageRank {
             System.out.println(str);
         }
     }
-    
+    public void pgValue() {
+        final double outdegree = 0;
+        for (int k = 0; k < 1000; k++) {
+            for (int i = 0; i < dg.V(); i++) {
+            double temp = 0.0;
+            double temp1 = 0.0;
+                for (int j : dg.adj(i)) {
+                    temp = bst.get(j) / dg.outdegree(j);
+                    temp1 = temp1 + temp;
+                }
+                bst.put(i, temp1);
+            }
+        }
+    }
 }
 
 class WebSearch {
@@ -46,6 +59,7 @@ final class Solution {
         // Create page rank object and pass the graph object to the constructor
         PageRank pr = new PageRank(dg);
         pr.display();
+        pr.pgValue();
         // print the page rank object
         
         // This part is only for the final test case

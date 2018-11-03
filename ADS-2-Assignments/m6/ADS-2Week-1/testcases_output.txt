@@ -22,7 +22,7 @@ Exception in thread "main" java.util.NoSuchElementException: called min() with e
 	at BinarySearchST.min(BinarySearchST.java:275)
 	at BinarySearchST.keys(BinarySearchST.java:363)
 	at PageRank.display(Solution.java:11)
-	at Solution.main(Solution.java:48)
+	at Solution.main(Solution.java:61)
 ----------------------------------------
 
 ########## Testcase 1: Failed ##########
@@ -49,7 +49,7 @@ Exception in thread "main" java.util.NoSuchElementException: called min() with e
 	at BinarySearchST.min(BinarySearchST.java:275)
 	at BinarySearchST.keys(BinarySearchST.java:363)
 	at PageRank.display(Solution.java:11)
-	at Solution.main(Solution.java:48)
+	at Solution.main(Solution.java:61)
 ----------------------------------------
 
 ########## Testcase 2: Failed ##########
@@ -76,7 +76,7 @@ Exception in thread "main" java.util.NoSuchElementException: called min() with e
 	at BinarySearchST.min(BinarySearchST.java:275)
 	at BinarySearchST.keys(BinarySearchST.java:363)
 	at PageRank.display(Solution.java:11)
-	at Solution.main(Solution.java:48)
+	at Solution.main(Solution.java:61)
 ----------------------------------------
 
 ########## Testcase 3: Failed ##########
@@ -115,7 +115,7 @@ Exception in thread "main" java.util.NoSuchElementException: called min() with e
 	at BinarySearchST.min(BinarySearchST.java:275)
 	at BinarySearchST.keys(BinarySearchST.java:363)
 	at PageRank.display(Solution.java:11)
-	at Solution.main(Solution.java:48)
+	at Solution.main(Solution.java:61)
 ----------------------------------------
 
 ########## Testcase 4: Failed ##########
@@ -148,7 +148,7 @@ Exception in thread "main" java.util.NoSuchElementException: called min() with e
 	at BinarySearchST.min(BinarySearchST.java:275)
 	at BinarySearchST.keys(BinarySearchST.java:363)
 	at PageRank.display(Solution.java:11)
-	at Solution.main(Solution.java:48)
+	at Solution.main(Solution.java:61)
 ----------------------------------------
 
 ########## Testcase 5: Failed ##########
@@ -187,7 +187,7 @@ Exception in thread "main" java.util.NoSuchElementException: called min() with e
 	at BinarySearchST.min(BinarySearchST.java:275)
 	at BinarySearchST.keys(BinarySearchST.java:363)
 	at PageRank.display(Solution.java:11)
-	at Solution.main(Solution.java:48)
+	at Solution.main(Solution.java:61)
 ----------------------------------------
 
 ########## Testcase 6: Failed ##########
@@ -214,7 +214,7 @@ Exception in thread "main" java.util.NoSuchElementException: called min() with e
 	at BinarySearchST.min(BinarySearchST.java:275)
 	at BinarySearchST.keys(BinarySearchST.java:363)
 	at PageRank.display(Solution.java:11)
-	at Solution.main(Solution.java:48)
+	at Solution.main(Solution.java:61)
 ----------------------------------------
 
 ########## Testcase 7: Failed ##########
@@ -247,7 +247,7 @@ Exception in thread "main" java.util.NoSuchElementException: called min() with e
 	at BinarySearchST.min(BinarySearchST.java:275)
 	at BinarySearchST.keys(BinarySearchST.java:363)
 	at PageRank.display(Solution.java:11)
-	at Solution.main(Solution.java:48)
+	at Solution.main(Solution.java:61)
 ----------------------------------------
 
 ########## Testcase 8: Failed ##########
@@ -274,7 +274,7 @@ Exception in thread "main" java.util.NoSuchElementException: called min() with e
 	at BinarySearchST.min(BinarySearchST.java:275)
 	at BinarySearchST.keys(BinarySearchST.java:363)
 	at PageRank.display(Solution.java:11)
-	at Solution.main(Solution.java:48)
+	at Solution.main(Solution.java:61)
 ----------------------------------------
 
 ########## Testcase 9: Failed ##########
@@ -307,7 +307,7 @@ Exception in thread "main" java.util.NoSuchElementException: called min() with e
 	at BinarySearchST.min(BinarySearchST.java:275)
 	at BinarySearchST.keys(BinarySearchST.java:363)
 	at PageRank.display(Solution.java:11)
-	at Solution.main(Solution.java:48)
+	at Solution.main(Solution.java:61)
 ----------------------------------------
 
 ########## Testcase 10: Failed ##########
@@ -328,7 +328,7 @@ Exception in thread "main" java.util.NoSuchElementException: called min() with e
 	at BinarySearchST.min(BinarySearchST.java:275)
 	at BinarySearchST.keys(BinarySearchST.java:363)
 	at PageRank.display(Solution.java:11)
-	at Solution.main(Solution.java:48)
+	at Solution.main(Solution.java:61)
 ----------------------------------------
 
 ########## Testcase 11: Failed ##########
@@ -384,6 +384,6 @@ Exception in thread "main" java.util.NoSuchElementException: called min() with e
 	at BinarySearchST.min(BinarySearchST.java:275)
 	at BinarySearchST.keys(BinarySearchST.java:363)
 	at PageRank.display(Solution.java:11)
-	at Solution.main(Solution.java:48)
+	at Solution.main(Solution.java:61)
 ----------------------------------------
 
