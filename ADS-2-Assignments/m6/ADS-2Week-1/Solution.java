@@ -17,8 +17,8 @@ class PageRank {
     public void pgValue() {
         final double outdegree = 0;
         final double value = 0.25;
-        for (int i = 0; i < dg.V(); i++) {
-            bst.put(i, value);
+        for (int m = 0; m < dg.V(); m++) {
+            bst.put(m, value);
         }
         for (int k = 0; k < 1000; k++) {
             for (int i = 0; i < dg.V(); i++) {
