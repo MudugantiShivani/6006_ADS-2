@@ -445,20 +445,8 @@ Audit done.
 Checkstyle ends with 34 errors.
 Starting audit...
 [ERROR] D:\ADS-2\6006_ADS-2\ADS-2-Assignments\m6\ADS-2Week-1\Solution.java:0: File does not end with a newline. [NewlineAtEndOfFile]
-[ERROR] D:\ADS-2\6006_ADS-2\ADS-2-Assignments\m6\ADS-2Week-1\Solution.java:3: Missing a Javadoc comment. [JavadocType]
-[ERROR] D:\ADS-2\6006_ADS-2\ADS-2-Assignments\m6\ADS-2Week-1\Solution.java:4:5: Missing a Javadoc comment. [JavadocVariable]
-[ERROR] D:\ADS-2\6006_ADS-2\ADS-2-Assignments\m6\ADS-2Week-1\Solution.java:5:5: Missing a Javadoc comment. [JavadocVariable]
-[ERROR] D:\ADS-2\6006_ADS-2\ADS-2-Assignments\m6\ADS-2Week-1\Solution.java:6:5: Missing a Javadoc comment. [JavadocVariable]
-[ERROR] D:\ADS-2\6006_ADS-2\ADS-2-Assignments\m6\ADS-2Week-1\Solution.java:7:5: Missing a Javadoc comment. [JavadocVariable]
-[ERROR] D:\ADS-2\6006_ADS-2\ADS-2-Assignments\m6\ADS-2Week-1\Solution.java:8:5: Missing a Javadoc comment. [JavadocMethod]
-[ERROR] D:\ADS-2\6006_ADS-2\ADS-2-Assignments\m6\ADS-2Week-1\Solution.java:31:5: Missing a Javadoc comment. [JavadocMethod]
-[ERROR] D:\ADS-2\6006_ADS-2\ADS-2-Assignments\m6\ADS-2Week-1\Solution.java:43:5: Missing a Javadoc comment. [JavadocMethod]
-[ERROR] D:\ADS-2\6006_ADS-2\ADS-2-Assignments\m6\ADS-2Week-1\Solution.java:52: Missing a Javadoc comment. [JavadocType]
-[ERROR] D:\ADS-2\6006_ADS-2\ADS-2-Assignments\m6\ADS-2Week-1\Solution.java:56: Missing a Javadoc comment. [JavadocType]
-[ERROR] D:\ADS-2\6006_ADS-2\ADS-2-Assignments\m6\ADS-2Week-1\Solution.java:57:5: Missing a Javadoc comment. [JavadocMethod]
-[ERROR] D:\ADS-2\6006_ADS-2\ADS-2-Assignments\m6\ADS-2Week-1\Solution.java:60:5: Missing a Javadoc comment. [JavadocMethod]
 Audit done.
-Checkstyle ends with 13 errors.
+Checkstyle ends with 1 errors.
 Starting audit...
 [ERROR] D:\ADS-2\6006_ADS-2\ADS-2-Assignments\m6\ADS-2Week-1\Stack.java:0: File does not end with a newline. [NewlineAtEndOfFile]
 [ERROR] D:\ADS-2\6006_ADS-2\ADS-2-Assignments\m6\ADS-2Week-1\Stack.java:13: Line has trailing spaces. [RegexpSingleline]

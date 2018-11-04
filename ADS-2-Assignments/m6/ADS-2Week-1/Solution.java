@@ -1,10 +1,31 @@
 import java.util.Scanner;
 import java.util.Arrays;
+/**
+ * Class for page rank.
+ */
 class PageRank {
+    /**
+     * value of 1000.
+     */
     private static final int THOUSAND = 1000;
+    /**
+     * digraph class object.
+     */
     private Digraph digraph;
+    /**
+     * double array.
+     */
     private Double[] values;
+    /**
+     * double array.
+     */
     private Double[] iter;
+    /**
+     * Constructs the object.
+     * complexity O(n + n*n + 1000)
+     * bigO will be O(n)
+     * @param      graph  The graph
+     */
     PageRank(final Digraph graph) {
         this.digraph = graph;
         iter = new Double[digraph.V()];
@@ -28,6 +49,13 @@ class PageRank {
             iter = Arrays.copyOf(values, values.length);
         }
     }
+    /**
+     * finding the pr value.
+     * complexity O(n) n is the number of edges.
+     * @param      one   One
+     *
+     * @return     int value.
+     */
     public double rank(final int one) {
         double rank = 0.0;
         if (digraph.indegree(one) == 0) {
@@ -40,6 +68,12 @@ class PageRank {
         values[one] = rank;
         return values[one];
     }
+
+    /**
+     * Returns a string representation of the object.
+     * complexity O(v) v is the no of vertices.
+     * @return     String representation of the object.
+     */
     public String toString() {
         String str = "";
         for (int i = 0; i < digraph.V() - 1; i++) {
@@ -49,14 +83,28 @@ class PageRank {
         return str;
     }
 }
+/**
+ * Class for web search.
+ */
 class WebSearch {
 
 }
 
+/**
+ * Class for solution.
+ */
 public final class Solution {
+    /**
+     * Constructs the object.
+     */
     private Solution() {
 
     }
+    /**
+     * main method for the program.
+     * comlexity O(n) n is the number of vertices given.
+     * @param      args  The arguments
+     */
     public static void main(final String[] args) {
         Scanner scan = new Scanner(System.in);
         int input = Integer.parseInt(scan.nextLine());
