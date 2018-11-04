@@ -145,3 +145,4 @@ public final class Solution {
         // print the return value of iAmFeelingLucky
     }
 }
+
