@@ -240,6 +240,7 @@ Starting audit...
 [ERROR] D:\ADS-2\6006_ADS-2\ADS-2-Assignments\m10\Seam Carving\SeamCarver.java:9:27: Parameter picture should be final. [FinalParameters]
 [ERROR] D:\ADS-2\6006_ADS-2\ADS-2-Assignments\m10\Seam Carving\SeamCarver.java:9:35: 'picture' hides a field. [HiddenField]
 [ERROR] D:\ADS-2\6006_ADS-2\ADS-2-Assignments\m10\Seam Carving\SeamCarver.java:15:51: ';' is preceded with whitespace. [NoWhitespaceBefore]
+[ERROR] D:\ADS-2\6006_ADS-2\ADS-2-Assignments\m10\Seam Carving\SeamCarver.java:16: Line is longer than 80 characters (found 92). [LineLength]
 [ERROR] D:\ADS-2\6006_ADS-2\ADS-2-Assignments\m10\Seam Carving\SeamCarver.java:17:56: '1000.0' is a magic number. [MagicNumber]
 [ERROR] D:\ADS-2\6006_ADS-2\ADS-2-Assignments\m10\Seam Carving\SeamCarver.java:25:9: Class 'SeamCarver' looks like designed for extension (can be subclassed), but the method 'squareroot' does not have javadoc that explains how to do that safely. If class is not designed for extension consider making the class 'SeamCarver' final or making the method 'squareroot' static/final/abstract/empty, or adding allowed annotation for the method. [DesignForExtension]
 [ERROR] D:\ADS-2\6006_ADS-2\ADS-2-Assignments\m10\Seam Carving\SeamCarver.java:25:9: Missing a Javadoc comment. [JavadocMethod]
@@ -276,7 +277,7 @@ Starting audit...
 [ERROR] D:\ADS-2\6006_ADS-2\ADS-2-Assignments\m10\Seam Carving\SeamCarver.java:84:9: Missing a Javadoc comment. [JavadocMethod]
 [ERROR] D:\ADS-2\6006_ADS-2\ADS-2-Assignments\m10\Seam Carving\SeamCarver.java:84:40: Parameter seam should be final. [FinalParameters]
 Audit done.
-Checkstyle ends with 53 errors.
+Checkstyle ends with 54 errors.
 Starting audit...
 [ERROR] D:\ADS-2\6006_ADS-2\ADS-2-Assignments\m10\Seam Carving\ShowEnergy.java:0: File does not end with a newline. [NewlineAtEndOfFile]
 [ERROR] D:\ADS-2\6006_ADS-2\ADS-2-Assignments\m10\Seam Carving\ShowEnergy.java:5: Line has trailing spaces. [RegexpSingleline]
