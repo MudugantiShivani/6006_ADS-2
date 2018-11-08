@@ -24,8 +24,8 @@ public class SeamCarver {
 	}
 	public double squareroot(int i, int j) {
 		int xaxis = xaxis(i, j);
-		// int yaxis = yaxis(i, j);
-		double energy1 = Math.sqrt(xaxis);
+		int yaxis = yaxis(i, j);
+		double energy1 = Math.sqrt(xaxis + yaxis);
 		return energy1;
 	}
 	public int xaxis(int i, int j) {
@@ -36,6 +36,15 @@ public class SeamCarver {
 		int b = element1.getBlue() - element2.getBlue();
 		int xaxis = (r * r) + (g * g) + (b * b);
 		return xaxis;
+	}
+	public int yaxis(int i, int j) {
+		Color element1 = picture.get(i, j-1);
+		Color element2 = picture.get(i, j+1);
+		int r = element1.getRed() - element2.getRed();
+		int g = element1.getGreen() - element2.getGreen();
+		int b = element1.getBlue() - element2.getBlue();
+		int yaxis = (r * r) + (g * g) + (b * b);
+		return yaxis;
 	}
 	// current picture
 	public Picture picture() {
