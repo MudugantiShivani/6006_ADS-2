@@ -1,0 +1,52 @@
+Starting audit...
+[ERROR] D:\ADS-2\6006_ADS-2\ADS-2-Assignments\m12\ADS-2_Exam-2\Bag.java:8: Line has trailing spaces. [RegexpSingleline]
+[ERROR] D:\ADS-2\6006_ADS-2\ADS-2-Assignments\m12\ADS-2_Exam-2\Bag.java:34: Line has trailing spaces. [RegexpSingleline]
+[ERROR] D:\ADS-2\6006_ADS-2\ADS-2-Assignments\m12\ADS-2_Exam-2\Bag.java:35: Line has trailing spaces. [RegexpSingleline]
+[ERROR] D:\ADS-2\6006_ADS-2\ADS-2-Assignments\m12\ADS-2_Exam-2\Bag.java:38: Line is longer than 80 characters (found 82). [LineLength]
+[ERROR] D:\ADS-2\6006_ADS-2\ADS-2-Assignments\m12\ADS-2_Exam-2\Bag.java:43: Line is longer than 80 characters (found 81). [LineLength]
+[ERROR] D:\ADS-2\6006_ADS-2\ADS-2-Assignments\m12\ADS-2_Exam-2\Bag.java:45: Line is longer than 80 characters (found 105). [LineLength]
+[ERROR] D:\ADS-2\6006_ADS-2\ADS-2-Assignments\m12\ADS-2_Exam-2\Bag.java:54:5: Missing a Javadoc comment. [JavadocVariable]
+[ERROR] D:\ADS-2\6006_ADS-2\ADS-2-Assignments\m12\ADS-2_Exam-2\Bag.java:55:5: Missing a Javadoc comment. [JavadocVariable]
+[ERROR] D:\ADS-2\6006_ADS-2\ADS-2-Assignments\m12\ADS-2_Exam-2\Bag.java:58: Missing a Javadoc comment. [JavadocType]
+[ERROR] D:\ADS-2\6006_ADS-2\ADS-2-Assignments\m12\ADS-2_Exam-2\Bag.java:59:9: Missing a Javadoc comment. [JavadocVariable]
+[ERROR] D:\ADS-2\6006_ADS-2\ADS-2-Assignments\m12\ADS-2_Exam-2\Bag.java:60:9: Missing a Javadoc comment. [JavadocVariable]
+[ERROR] D:\ADS-2\6006_ADS-2\ADS-2-Assignments\m12\ADS-2_Exam-2\Bag.java:95:21: Parameter item should be final. [FinalParameters]
+[ERROR] D:\ADS-2\6006_ADS-2\ADS-2-Assignments\m12\ADS-2_Exam-2\Bag.java:105: Line is longer than 80 characters (found 87). [LineLength]
+[ERROR] D:\ADS-2\6006_ADS-2\ADS-2-Assignments\m12\ADS-2_Exam-2\Bag.java:107: Line is longer than 80 characters (found 86). [LineLength]
+[ERROR] D:\ADS-2\6006_ADS-2\ADS-2-Assignments\m12\ADS-2_Exam-2\Bag.java:110: Line has trailing spaces. [RegexpSingleline]
+[ERROR] D:\ADS-2\6006_ADS-2\ADS-2-Assignments\m12\ADS-2_Exam-2\Bag.java:114: Missing a Javadoc comment. [JavadocType]
+[ERROR] D:\ADS-2\6006_ADS-2\ADS-2-Assignments\m12\ADS-2_Exam-2\Bag.java:115:9: Missing a Javadoc comment. [JavadocVariable]
+[ERROR] D:\ADS-2\6006_ADS-2\ADS-2-Assignments\m12\ADS-2_Exam-2\Bag.java:117:9: Missing a Javadoc comment. [JavadocMethod]
+[ERROR] D:\ADS-2\6006_ADS-2\ADS-2-Assignments\m12\ADS-2_Exam-2\Bag.java:117:9: Redundant 'public' modifier. [RedundantModifier]
+[ERROR] D:\ADS-2\6006_ADS-2\ADS-2-Assignments\m12\ADS-2_Exam-2\Bag.java:117:29: Parameter first should be final. [FinalParameters]
+[ERROR] D:\ADS-2\6006_ADS-2\ADS-2-Assignments\m12\ADS-2_Exam-2\Bag.java:117:40: 'first' hides a field. [HiddenField]
+[ERROR] D:\ADS-2\6006_ADS-2\ADS-2-Assignments\m12\ADS-2_Exam-2\Bag.java:121: Line is longer than 80 characters (found 81). [LineLength]
+[ERROR] D:\ADS-2\6006_ADS-2\ADS-2-Assignments\m12\ADS-2_Exam-2\Bag.java:121:35: '{' at column 35 should have line break after. [LeftCurly]
+[ERROR] D:\ADS-2\6006_ADS-2\ADS-2-Assignments\m12\ADS-2_Exam-2\Bag.java:122: Line is longer than 80 characters (found 81). [LineLength]
+[ERROR] D:\ADS-2\6006_ADS-2\ADS-2-Assignments\m12\ADS-2_Exam-2\Bag.java:122:35: '{' at column 35 should have line break after. [LeftCurly]
+[ERROR] D:\ADS-2\6006_ADS-2\ADS-2-Assignments\m12\ADS-2_Exam-2\Bag.java:124:9: Missing a Javadoc comment. [JavadocMethod]
+[ERROR] D:\ADS-2\6006_ADS-2\ADS-2-Assignments\m12\ADS-2_Exam-2\Bag.java:125: 'if' construct must use '{}'s. [NeedBraces]
+[ERROR] D:\ADS-2\6006_ADS-2\ADS-2-Assignments\m12\ADS-2_Exam-2\Bag.java:127: Line has trailing spaces. [RegexpSingleline]
+Audit done.
+Checkstyle ends with 28 errors.
+Starting audit...
+[ERROR] D:\ADS-2\6006_ADS-2\ADS-2-Assignments\m12\ADS-2_Exam-2\Edge.java:0: File does not end with a newline. [NewlineAtEndOfFile]
+Audit done.
+Checkstyle ends with 1 errors.
+Starting audit...
+[ERROR] D:\ADS-2\6006_ADS-2\ADS-2-Assignments\m12\ADS-2_Exam-2\EdgeWeightedGraph.java:173: Unused Javadoc tag. [JavadocMethod]
+[ERROR] D:\ADS-2\6006_ADS-2\ADS-2-Assignments\m12\ADS-2_Exam-2\EdgeWeightedGraph.java:183: Line is longer than 80 characters (found 105). [LineLength]
+Audit done.
+Checkstyle ends with 2 errors.
+Starting audit...
+[ERROR] D:\ADS-2\6006_ADS-2\ADS-2-Assignments\m12\ADS-2_Exam-2\Solution.java:0: File does not end with a newline. [NewlineAtEndOfFile]
+[ERROR] D:\ADS-2\6006_ADS-2\ADS-2-Assignments\m12\ADS-2_Exam-2\Solution.java:2: Missing a Javadoc comment. [JavadocType]
+[ERROR] D:\ADS-2\6006_ADS-2\ADS-2-Assignments\m12\ADS-2_Exam-2\Solution.java:2:1: Utility classes should not have a public or default constructor. [HideUtilityClassConstructor]
+[ERROR] D:\ADS-2\6006_ADS-2\ADS-2-Assignments\m12\ADS-2_Exam-2\Solution.java:4:1: File contains tab characters (this is the first instance). [FileTabCharacter]
+[ERROR] D:\ADS-2\6006_ADS-2\ADS-2-Assignments\m12\ADS-2_Exam-2\Solution.java:4:9: Missing a Javadoc comment. [JavadocMethod]
+[ERROR] D:\ADS-2\6006_ADS-2\ADS-2-Assignments\m12\ADS-2_Exam-2\Solution.java:4:33: Parameter args should be final. [FinalParameters]
+[ERROR] D:\ADS-2\6006_ADS-2\ADS-2-Assignments\m12\ADS-2_Exam-2\Solution.java:28: Line is longer than 80 characters (found 90). [LineLength]
+[ERROR] D:\ADS-2\6006_ADS-2\ADS-2-Assignments\m12\ADS-2_Exam-2\Solution.java:35: Line is longer than 80 characters (found 87). [LineLength]
+[ERROR] D:\ADS-2\6006_ADS-2\ADS-2-Assignments\m12\ADS-2_Exam-2\Solution.java:36: Line is longer than 80 characters (found 110). [LineLength]
+Audit done.
+Checkstyle ends with 9 errors.
