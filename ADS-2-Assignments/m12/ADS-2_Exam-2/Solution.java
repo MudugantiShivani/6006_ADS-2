@@ -2,7 +2,7 @@ import java.util.Scanner;
 /**
  * Class for solution.
  */
-public class Solution {
+public final class Solution {
     /**
      * Constructs the object.
      */
@@ -42,7 +42,6 @@ public class Solution {
             // First is the source and second is the destination.
             // If the path exists print the distance between them.
             // Other wise print "No Path Found."
-            
             String[] item = scan.nextLine().split(" ");
             Dijk dijk = new Dijk(edgeGraph, Integer.parseInt(item[0]));
             double destination = dijk.distanceTo(Integer.parseInt(
