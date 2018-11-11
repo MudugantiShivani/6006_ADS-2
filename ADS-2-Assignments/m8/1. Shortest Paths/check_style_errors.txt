@@ -1,26 +1,16 @@
 Starting audit...
-[ERROR] D:\ADS-2\6006_ADS-2\ADS-2-Assignments\m8\1. Shortest Paths\Bag.java:0: File does not end with a newline. [NewlineAtEndOfFile]
 Audit done.
-Checkstyle ends with 1 errors.
 Starting audit...
-[ERROR] D:\ADS-2\6006_ADS-2\ADS-2-Assignments\m8\1. Shortest Paths\Edge.java:0: File does not end with a newline. [NewlineAtEndOfFile]
 Audit done.
-Checkstyle ends with 1 errors.
 Starting audit...
 [ERROR] D:\ADS-2\6006_ADS-2\ADS-2-Assignments\m8\1. Shortest Paths\EdgeWeighted.java:0: File does not end with a newline. [NewlineAtEndOfFile]
 Audit done.
 Checkstyle ends with 1 errors.
 Starting audit...
-[ERROR] D:\ADS-2\6006_ADS-2\ADS-2-Assignments\m8\1. Shortest Paths\IndexMinPQ.java:0: File does not end with a newline. [NewlineAtEndOfFile]
 Audit done.
-Checkstyle ends with 1 errors.
+Starting audit...
+Audit done.
 Starting audit...
 Audit done.
 Starting audit...
-[ERROR] D:\ADS-2\6006_ADS-2\ADS-2-Assignments\m8\1. Shortest Paths\Solution.java:0: File does not end with a newline. [NewlineAtEndOfFile]
 Audit done.
-Checkstyle ends with 1 errors.
-Starting audit...
-[ERROR] D:\ADS-2\6006_ADS-2\ADS-2-Assignments\m8\1. Shortest Paths\Stack.java:0: File does not end with a newline. [NewlineAtEndOfFile]
-Audit done.
-Checkstyle ends with 1 errors.
