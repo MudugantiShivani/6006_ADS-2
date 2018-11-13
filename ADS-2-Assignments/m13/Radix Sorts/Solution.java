@@ -1,6 +1,16 @@
 import java.util.Scanner;
 import java.util.Arrays;
+/**
+ * Class for lsd.
+ */
 class LSD {
+    /**
+     * {Here we perform the sorting of string arrays in this method}.
+     * the time complexity here is O(w*N)
+     *
+     * @param      a     {array of the strings }
+     * @param      w     { fixed length of the strings}
+     */
     public void sort(final String[] a, final int w) {
         int n = a.length;
         final int extendedASCII = 256;
@@ -22,10 +32,23 @@ class LSD {
         }
     }
 }
+/**
+ * {Solution class}.
+ */
 final class Solution {
+    /**
+     * Constructs the object.
+     */
     private Solution() {
 
     }
+    /**
+     * {This is the main method}.
+     * The time complexity is (N+(N*w)) as we take N inputs and each time 
+     * we call LSD function.
+     *
+     * @param      args  The arguments
+     */
     public static void main(final String[] args) {
         Scanner sc = new Scanner(System.in);
         int count = Integer.parseInt(sc.nextLine());

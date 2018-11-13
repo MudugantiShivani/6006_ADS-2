@@ -1,9 +1,5 @@
 Starting audit...
 [ERROR] D:\ADS-2\6006_ADS-2\ADS-2-Assignments\m13\Radix Sorts\Solution.java:0: File does not end with a newline. [NewlineAtEndOfFile]
-[ERROR] D:\ADS-2\6006_ADS-2\ADS-2-Assignments\m13\Radix Sorts\Solution.java:3: Missing a Javadoc comment. [JavadocType]
-[ERROR] D:\ADS-2\6006_ADS-2\ADS-2-Assignments\m13\Radix Sorts\Solution.java:4:5: Missing a Javadoc comment. [JavadocMethod]
-[ERROR] D:\ADS-2\6006_ADS-2\ADS-2-Assignments\m13\Radix Sorts\Solution.java:25: Missing a Javadoc comment. [JavadocType]
-[ERROR] D:\ADS-2\6006_ADS-2\ADS-2-Assignments\m13\Radix Sorts\Solution.java:26:5: Missing a Javadoc comment. [JavadocMethod]
-[ERROR] D:\ADS-2\6006_ADS-2\ADS-2-Assignments\m13\Radix Sorts\Solution.java:29:5: Missing a Javadoc comment. [JavadocMethod]
+[ERROR] D:\ADS-2\6006_ADS-2\ADS-2-Assignments\m13\Radix Sorts\Solution.java:47: Line has trailing spaces. [RegexpSingleline]
 Audit done.
-Checkstyle ends with 6 errors.
+Checkstyle ends with 2 errors.
