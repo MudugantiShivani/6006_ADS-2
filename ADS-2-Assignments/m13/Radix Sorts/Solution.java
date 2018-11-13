@@ -44,7 +44,7 @@ final class Solution {
     }
     /**
      * {This is the main method}.
-     * The time complexity is (N+(N*w)) as we take N inputs and each time 
+     * The time complexity is (N+(N*w)) as we take N inputs and each time
      * we call LSD function.
      *
      * @param      args  The arguments
