@@ -58,8 +58,9 @@ public class SeamCarver {
      * @return energy of pixel.
      */
     public double energy(final int x, final int y) {
+        final double thousand = 1000.0;
         if (x == 0 || y == 0 || y == (height - 1) || x == (width - 1)) {
-            return 1000.0;
+            return thousand;
         }
         double xCoordinate = 0.0;
         double yCoordinate = 0.0;
@@ -88,7 +89,7 @@ public class SeamCarver {
         double sum = Math.sqrt(xCoordinate + yCoordinate);
         return sum;
     }
-    /**sequence of indices for horizontal seam
+    /**sequence of indices for horizontal seam.
      *
      *time complexity is O(w*h)
      *w is the width and h is the height
@@ -98,8 +99,9 @@ public class SeamCarver {
         int[][] edgeTo = new int[height][width];
         double[][] distTo = new double[height][width];
         reset(distTo);
+        final int thousand = 1000;
         for (int row = 0; row < height; row++) {
-            distTo[row][0] = 1000;
+            distTo[row][0] = thousand;
         }
         for (int col = 0; col < width - 1; col++) {
             for (int row = 0; row < height; row++) {
@@ -169,12 +171,13 @@ public class SeamCarver {
         int[][] edgeTo = new int[height][width];
         double[][] distTo = new double[height][width];
         reset(distTo);
+        final double thousand = 1000.0;
         int[] indices = new int[height];
         if (width == 1 || height == 1) {
             return indices;
         }
         for (int i = 0; i < width; i++) {
-            distTo[0][i] = 1000.0;
+            distTo[0][i] = thousand;
         }
         // this is for relaxation.
         for (int i = 0; i < height - 1; i++) {
@@ -201,7 +204,7 @@ public class SeamCarver {
         return indices;
     }
     /**
-     *time complexity is O(W * H)
+     *time complexity is O(W * H).
      *W is the width of image
      *H is the height of image
      * @param      distTo  The distance to
