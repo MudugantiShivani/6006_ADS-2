@@ -1,0 +1,33 @@
+Starting audit...
+[ERROR] D:\ADS-2\6006_ADS-2\ADS-2-Assignments\m14\Assignment-1\In.java:0: File does not end with a newline. [NewlineAtEndOfFile]
+Audit done.
+Checkstyle ends with 1 errors.
+Starting audit...
+[ERROR] D:\ADS-2\6006_ADS-2\ADS-2-Assignments\m14\Assignment-1\Queue.java:0: File does not end with a newline. [NewlineAtEndOfFile]
+Audit done.
+Checkstyle ends with 1 errors.
+Starting audit...
+[ERROR] D:\ADS-2\6006_ADS-2\ADS-2-Assignments\m14\Assignment-1\Solution.java:0: File does not end with a newline. [NewlineAtEndOfFile]
+[ERROR] D:\ADS-2\6006_ADS-2\ADS-2-Assignments\m14\Assignment-1\Solution.java:2: Missing a Javadoc comment. [JavadocType]
+[ERROR] D:\ADS-2\6006_ADS-2\ADS-2-Assignments\m14\Assignment-1\Solution.java:3:5: Missing a Javadoc comment. [JavadocMethod]
+[ERROR] D:\ADS-2\6006_ADS-2\ADS-2-Assignments\m14\Assignment-1\Solution.java:6:5: Missing a Javadoc comment. [JavadocMethod]
+[ERROR] D:\ADS-2\6006_ADS-2\ADS-2-Assignments\m14\Assignment-1\Solution.java:18:5: Missing a Javadoc comment. [JavadocMethod]
+[ERROR] D:\ADS-2\6006_ADS-2\ADS-2-Assignments\m14\Assignment-1\Solution.java:24: Missing a Javadoc comment. [JavadocType]
+[ERROR] D:\ADS-2\6006_ADS-2\ADS-2-Assignments\m14\Assignment-1\Solution.java:25:5: Missing a Javadoc comment. [JavadocVariable]
+[ERROR] D:\ADS-2\6006_ADS-2\ADS-2-Assignments\m14\Assignment-1\Solution.java:26:5: Missing a Javadoc comment. [JavadocVariable]
+[ERROR] D:\ADS-2\6006_ADS-2\ADS-2-Assignments\m14\Assignment-1\Solution.java:27: Missing a Javadoc comment. [JavadocType]
+[ERROR] D:\ADS-2\6006_ADS-2\ADS-2-Assignments\m14\Assignment-1\Solution.java:28:9: Missing a Javadoc comment. [JavadocVariable]
+[ERROR] D:\ADS-2\6006_ADS-2\ADS-2-Assignments\m14\Assignment-1\Solution.java:29:9: Missing a Javadoc comment. [JavadocVariable]
+[ERROR] D:\ADS-2\6006_ADS-2\ADS-2-Assignments\m14\Assignment-1\Solution.java:30:9: Missing a Javadoc comment. [JavadocVariable]
+[ERROR] D:\ADS-2\6006_ADS-2\ADS-2-Assignments\m14\Assignment-1\Solution.java:31:9: Missing a Javadoc comment. [JavadocVariable]
+[ERROR] D:\ADS-2\6006_ADS-2\ADS-2-Assignments\m14\Assignment-1\Solution.java:32:9: Missing a Javadoc comment. [JavadocVariable]
+[ERROR] D:\ADS-2\6006_ADS-2\ADS-2-Assignments\m14\Assignment-1\Solution.java:34:5: Missing a Javadoc comment. [JavadocMethod]
+[ERROR] D:\ADS-2\6006_ADS-2\ADS-2-Assignments\m14\Assignment-1\Solution.java:37:5: Missing a Javadoc comment. [JavadocMethod]
+[ERROR] D:\ADS-2\6006_ADS-2\ADS-2-Assignments\m14\Assignment-1\Solution.java:40:5: Missing a Javadoc comment. [JavadocMethod]
+[ERROR] D:\ADS-2\6006_ADS-2\ADS-2-Assignments\m14\Assignment-1\Solution.java:47:5: Missing a Javadoc comment. [JavadocMethod]
+[ERROR] D:\ADS-2\6006_ADS-2\ADS-2-Assignments\m14\Assignment-1\Solution.java:63:5: Missing a Javadoc comment. [JavadocMethod]
+[ERROR] D:\ADS-2\6006_ADS-2\ADS-2-Assignments\m14\Assignment-1\Solution.java:69:5: Missing a Javadoc comment. [JavadocMethod]
+[ERROR] D:\ADS-2\6006_ADS-2\ADS-2-Assignments\m14\Assignment-1\Solution.java:89:5: Missing a Javadoc comment. [JavadocMethod]
+[ERROR] D:\ADS-2\6006_ADS-2\ADS-2-Assignments\m14\Assignment-1\Solution.java:101:5: Missing a Javadoc comment. [JavadocMethod]
+Audit done.
+Checkstyle ends with 22 errors.
