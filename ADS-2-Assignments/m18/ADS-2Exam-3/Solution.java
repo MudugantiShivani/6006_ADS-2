@@ -1,4 +1,8 @@
 import java.util.Scanner;
+import java.util.ArrayList;
+import java.util.Collections;
+import java.util.TreeSet;
+
 
 
 
@@ -121,13 +125,26 @@ class T9 {
 
 	public Iterable<String> potentialWords(String t9Signature) {
 		// your code goes here
-		return tst.keysThatMatch(t9Signature);
+		return null;
 	}
 
 	// return all possibilities(words), find top k with highest frequency.
 	public Iterable<String> getSuggestions(Iterable<String> words, int k) {
 		// your code goes here
-		return null;
+        MaxPQ<Integer> max = new MaxPQ<>();
+        for (String key : words) {
+            max.insert((Integer)tst.get(key));
+        }
+        TreeSet<String> suggets = new TreeSet<String>();
+        for(int i=0 ;i<k; i++) {
+        	int value = max.delMax();
+        	for(String word : words) {
+        		if(value == (Integer)tst.get(word)) {
+        			suggets.add(word);
+        		}
+        	}
+        } 
+        return suggets;
 	}
 
 	// final output
