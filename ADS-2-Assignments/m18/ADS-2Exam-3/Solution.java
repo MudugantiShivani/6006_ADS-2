@@ -2,10 +2,6 @@ import java.util.Scanner;
 import java.util.ArrayList;
 import java.util.Collections;
 import java.util.TreeSet;
-
-
-
-
 public class Solution {
 
 	// Don't modify this method.
@@ -108,7 +104,7 @@ public class Solution {
 }
 
 class T9 {
-	TST tst;
+	TST<Integer> tst;
 	public T9(BinarySearchST<String, Integer> st) {
 		// your code goes here
 		tst = new TST();
@@ -125,7 +121,43 @@ class T9 {
 
 	public Iterable<String> potentialWords(String t9Signature) {
 		// your code goes here
-		return null;
+		ArrayList<String> arrays1 = new ArrayList<>();
+        for (String wrd : tst.keys()) {
+            String[] strarray = wrd.split("");
+            String txt = "";
+            for (String ch : strarray) {
+                if (ch.equals("a") || ch.equals("b") || ch.equals("c")) {
+                    txt = txt + "2";
+                }
+                if (ch.equals("d") || ch.equals("e") || ch.equals("f")) {
+                    txt = txt + "3";
+                }
+                if (ch.equals("g") || ch.equals("h") || ch.equals("i")) {
+                    txt = txt + "4";
+                }
+                if (ch.equals("j") || ch.equals("k") || ch.equals("l")) {
+                    txt = txt + "5";
+                }
+                if (ch.equals("m") || ch.equals("n") || ch.equals("o")) {
+                    txt = txt + "6";
+                }
+                if (ch.equals("p") || ch.equals("q") || ch.equals("r")
+                        || ch.equals("s")) {
+                    txt = txt + "7";
+                }
+                if (ch.equals("t") || ch.equals("u") || ch.equals("v")) {
+                    txt = txt + "8";
+                }
+                if (ch.equals("w") || ch.equals("x") || ch.equals("y")
+                        || ch.equals("z")) {
+                    txt = txt + "9";
+                }
+            }
+            if (txt.equals(t9Signature)) {
+                arrays1.add(wrd);
+            }
+        }
+        return arrays1;
 	}
 
 	// return all possibilities(words), find top k with highest frequency.
