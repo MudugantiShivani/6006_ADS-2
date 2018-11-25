@@ -156,6 +156,7 @@ class DiGraph {
      * returns the number of vetices.
      *
      * @return     returns the number of vetices.
+     * time complexity is O(1).
      */
     public int vertices() {
         return vertices;
@@ -164,6 +165,7 @@ class DiGraph {
      * returns the number of edges.
      *
      * @return     returns the number of edges.
+     * time complexity is O(1).
      */
     public int edges() {
         return edges;
@@ -174,6 +176,7 @@ class DiGraph {
      * @param      vertex  The vertex
      *
      * @return     returns the adjacent vetices of that vertex.
+     * Time complexity is o(1).
      */
     public Iterable<Integer> adj(final int vertex) {
         return adj[vertex];
@@ -207,3 +210,4 @@ final class Solution {
         }
     }
 }
+

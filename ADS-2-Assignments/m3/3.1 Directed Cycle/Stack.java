@@ -64,6 +64,7 @@ public class Stack<Item> implements Iterable<Item> {
 
     /**
      * Create an empty stack.
+     * time complexity is O(1).
      */
     public Stack() {
         first = null;
@@ -74,6 +75,7 @@ public class Stack<Item> implements Iterable<Item> {
      * Determines if empty.
      *
      * @return     True if empty, False otherwise.
+     * time complexity is O(1).
      */
     public boolean isEmpty() {
         return first == null;
@@ -83,6 +85,7 @@ public class Stack<Item> implements Iterable<Item> {
      * returns size of stack.
      *
      * @return     returns size of stack.
+     * time complexity is O(1).
      */
     public int size() {
         return size;
@@ -199,5 +202,6 @@ public class Stack<Item> implements Iterable<Item> {
         }
     }
 }
+
 
 
