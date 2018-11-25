@@ -30,7 +30,7 @@ public final class Solution {
     }
     /**
      * Loads words.
-     * complexity O()
+     * complexity O(1).
      * @return     array.
      */
     public static String[] loadWords() {

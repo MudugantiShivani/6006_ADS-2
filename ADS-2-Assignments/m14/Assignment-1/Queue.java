@@ -37,6 +37,7 @@ public class Queue<Item> implements Iterable<Item> {
 
     /**
      * Initializes an empty queue.
+     * complexity is O(1).
      */
     Queue() {
         first = null;
