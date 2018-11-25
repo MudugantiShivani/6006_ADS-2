@@ -84,8 +84,7 @@ public final class StdOut {
         try {
             out = new PrintWriter(new OutputStreamWriter(
                 System.out, CHARSET_NAME), true);
-        }
-        catch (UnsupportedEncodingException e) {
+        } catch (UnsupportedEncodingException e) {
             System.out.println(e);
         }
     }
@@ -242,7 +241,7 @@ public final class StdOut {
      * complexity is O(1).
      * @param x the double to print
      */
-    public static void print( final double x) {
+    public static void print(final double x) {
         out.print(x);
         out.flush();
     }
@@ -326,3 +325,4 @@ public final class StdOut {
         out.flush();
     }
 }
+
