@@ -63,6 +63,7 @@ class Bipartite {
     }
     /**
      * Determines if bipartite.
+     * here complexity is O(1).
      *
      * @return     True if bipartite, False otherwise.
      */
@@ -82,6 +83,7 @@ final class Solution {
     }
     /**
      * the main method performs operations.
+     * here complexity is O(N).
      *
      * @param      args  The arguments
      */
@@ -103,3 +105,4 @@ final class Solution {
         }
     }
 }
+

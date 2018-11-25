@@ -36,6 +36,7 @@ public class Graph {
 
     /**
      * Return the number of vertices in the graph.
+     * here complexity is O(1).
      * @return      Integer
      */
     public int vertices() {
@@ -44,6 +45,7 @@ public class Graph {
 
     /**
      * Return the number of edges in the graph.
+     * here complexity is O(1).
      * @return      Integer
      */
     public int edges() {
@@ -73,4 +75,5 @@ public class Graph {
         return adj[vertex];
     }
 }
+
 
