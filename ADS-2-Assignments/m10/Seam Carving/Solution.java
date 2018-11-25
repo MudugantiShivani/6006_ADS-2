@@ -60,7 +60,7 @@ final class Solution {
     }
     /**
      *the main method to read the input.
-     *
+     * complexity is O(N).
      * @param      args  The arguments
      */
     public static void main(final String[] args) {
@@ -156,3 +156,4 @@ final class Solution {
         }
     }
 }
+
