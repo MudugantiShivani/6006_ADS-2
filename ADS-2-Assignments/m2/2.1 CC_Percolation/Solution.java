@@ -80,6 +80,7 @@ class Perculation {
 }
 /**
  * Class for solution.
+ * Here the complexty is O(n).
  */
 final class Solution {
     /**
@@ -113,3 +114,4 @@ final class Solution {
         }
     }
 }
+
