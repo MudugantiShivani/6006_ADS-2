@@ -89,8 +89,9 @@ public final class StdOut {
             System.out.println(e);
         }
     }
-
-    // don't instantiate
+    /**
+     * Constructs the object.
+     */
     private StdOut() {
     }
 
